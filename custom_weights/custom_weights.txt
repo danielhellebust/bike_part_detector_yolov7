@@ -1,0 +1,1 @@
+https://github.com/danielhellebust/bike_part_detector_yolov7/releases/download/bike_part_detector/bike_part_yolov7X_no_augmentation.pt
