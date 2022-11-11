@@ -1,0 +1,5 @@
+Download the different pre-trained weights from here:
+* yolov7 without data augmentation: https://github.com/danielhellebust/bike_part_detector_yolov7/releases/download/bike_part_detector/bike_part_yolov7_no_augmentation.pt
+* yolov7 with data augmentation: https://github.com/danielhellebust/bike_part_detector_yolov7/releases/download/bike_part_detector/bike_part_yolov7_with_augmentation.pt
+* yolov7X without data augmentation: https://github.com/danielhellebust/bike_part_detector_yolov7/releases/download/bike_part_detector/bike_part_yolov7X_no_augmentation.pt
+* yolov7X with data augmentation: https://github.com/danielhellebust/bike_part_detector_yolov7/releases/download/bike_part_detector/bike_part_yolov7X_with_augmentation.pt
