@@ -17,5 +17,4 @@ https://github.com/danielhellebust/bike_part_detector_yolov7/blob/main/yolov7/bi
 
 ![result_model4](https://user-images.githubusercontent.com/73568734/201437756-20a2fd98-8ce7-467f-a35f-a4e2ff4a6efd.png)
 
-
-https://www.youtube.com/watch?v=cKdiNJTm55k
+[Youtube link](https://www.youtube.com/watch?v=cKdiNJTm55k "result_model4")
