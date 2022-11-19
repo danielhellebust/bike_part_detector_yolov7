@@ -1,5 +1,13 @@
 # Textual description of bicycle parts using yolov7
 
+
+### Install libraries
+cd yolov7
+
+pip install -r requirements.txt
+
+_____________________________________________________________
+
 Custom weights for bike part detections can be downloaded here:
 
 * Model1: yolov7 without data augmentation: https://github.com/danielhellebust/bike_part_detector_yolov7/releases/download/bike_part_detector/bike_part_yolov7_no_augmentation.pt
