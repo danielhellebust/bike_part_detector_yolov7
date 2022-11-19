@@ -10,11 +10,11 @@ import torch.nn as nn
 from torch.utils.mobile_optimizer import optimize_for_mobile
 
 from yolov7 import models
-from yolov7.models import attempt_load, End2End
-from yolov7.utils import Hardswish, SiLU
-from yolov7.utils import set_logging, check_img_size
-from yolov7.utils import select_device
-from yolov7.utils import RegisterNMS
+from models import attempt_load, End2End
+from utils import Hardswish, SiLU
+from utils import set_logging, check_img_size
+from utils import select_device
+from utils import RegisterNMS
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
