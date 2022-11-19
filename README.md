@@ -10,8 +10,14 @@ Custom weights for bike part detections can be downloaded here:
 
 * Model4: yolov7X with data augmentation: https://github.com/danielhellebust/bike_part_detector_yolov7/releases/download/bike_part_detector/bike_part_yolov7X_with_augmentation.pt
 
+
+
 Notebook for bicycle part detection can found here: 
 https://github.com/danielhellebust/bike_part_detector_yolov7/blob/main/yolov7/bike_part_detector.ipynb
+
+
+Notebook for training bike part model can be found here:
+https://github.com/danielhellebust/bike_part_detector_yolov7/blob/main/yolov7/train_bikepart_model.ipynb
 
 
 
