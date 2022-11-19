@@ -33,3 +33,7 @@ https://github.com/danielhellebust/bike_part_detector_yolov7/blob/main/yolov7/tr
 
 Demo video on youtube here: [Youtube link](https://www.youtube.com/watch?v=cKdiNJTm55k "result_model4")
 
+_________________________________________________
+
+The directory "bike_part_models" include results from training of all four models. 
+
