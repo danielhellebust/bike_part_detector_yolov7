@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 9
+names: ['bottom_bracket', 'cassette', 'cranks_set', 'pedal', 'rear_derailleur', 'rim_brake', 'saddle', 'sti_shifter', 'wheel']
+
+roboflow:
+  workspace: bikes
+  project: bike_parts
+  version: 14
+  license: MIT
+  url: https://universe.roboflow.com/bikes/bike_parts/dataset/14
